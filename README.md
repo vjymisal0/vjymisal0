@@ -3,17 +3,25 @@
 ###
 
 <div align="center">
+
+
   <img src="https://github-readme-stats.vercel.app/api?username=vjymisal0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true" height="154" alt="stats graph"  />
+
 <br>
+
+
   <img src="https://streak-stats.demolab.com?user=vjymisal0&locale=en&mode=daily&theme=react&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" height="155" alt="streak graph"  />
+
 <br>
+
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vjymisal0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=true&custom_title=Languages%20used" height="154" alt="languages graph"  />
 </div>
+
 <br>
 <div align="center">
-  
-![LeetCode Stats](https://leetcard.jacoblin.cool/vijaymisal?theme=dark&font=Open%20Sans&ext=activity)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/vijaymisal?theme=dark&font=Open%20Sans&ext=activity)
 </div>
 <br>
 
