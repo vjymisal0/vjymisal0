@@ -18,8 +18,11 @@
 </div>
 <br>
 
-![](https://komarev.com/ghpvc/?username=your-github-vjymisal0&color=blueviolet)
+<div align="center">
+  
+  ![](https://komarev.com/ghpvc/?username=your-github-vjymisal0&color=blueviolet)
 
+</div>
 <br>
 <div align="center">
 
