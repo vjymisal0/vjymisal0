@@ -1,7 +1,7 @@
 <h1 align="left">Hey there! I am Vijay</h1>
 
 ###
-
+![](https://komarev.com/ghpvc/?username=your-github-vjymisal0&color=blueviolet)
 <div align="center">
 
 
