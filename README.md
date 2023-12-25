@@ -27,8 +27,16 @@
 <div align="center">
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/vijaymisal?theme=dark&font=Open%20Sans&ext=activity)
+
 </div>
 <br>
+
+<div align="center">
+
+[![Vijay's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=misalvifqg2)](https://auth.geeksforgeeks.org/user/misalvifqg2#!)
+  
+</div>
+
 
 ###
 
