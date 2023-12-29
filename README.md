@@ -33,7 +33,7 @@
 
 <div align="center">
 
-[![Vijay's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=misalvifqg2)](https://auth.geeksforgeeks.org/user/misalvifqg2#!)
+[![Vijay's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=misalvifqg2)](https://auth.geeksforgeeks.org/user/73vijay#!)
   
 </div>
 
