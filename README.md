@@ -105,6 +105,6 @@
 ###
 
 
- <img src="https://raw.githubusercontent.com/vjymisal0/vjymisal0/output/snake.svg" alt="Snake animation" /> 
+
  
  ###
