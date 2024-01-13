@@ -69,7 +69,7 @@
 </div>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="37" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="37" />
@@ -89,7 +89,7 @@
   <img width="37" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="37" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  /> -->
 </div>
 
 ###
@@ -98,7 +98,7 @@
 
 
 <div align="center">
-<!--   <img src="https://github-profile-trophy.vercel.app/?username=vjymisal0&theme=flat&no-frame=true&margin-w=30&margin-h=10&column=7" alt="trophies" /> -->
+  <img src="https://github-profile-trophy.vercel.app/?username=vjymisal0&theme=flat&no-frame=true&margin-w=30&margin-h=10&column=7" alt="trophies" />
 </div>
 
 
