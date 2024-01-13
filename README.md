@@ -98,7 +98,7 @@
 
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vjymisal0&theme=flat&no-frame=true&margin-w=30&margin-h=10&column=7" alt="trophies" />
+<!--   <img src="https://github-profile-trophy.vercel.app/?username=vjymisal0&theme=flat&no-frame=true&margin-w=30&margin-h=10&column=7" alt="trophies" /> -->
 </div>
 
 
