@@ -44,7 +44,7 @@
 </div>
 
 ###
-<!--
+
 <div>
   
 # 💻 Tech Stack:
@@ -72,7 +72,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
 
 
-</div>-->
+</div>
 
 
 <div align="center">
