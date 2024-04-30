@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="assets/Vijay.svg" alt="Vijay Misal" />
+  <img src="assets/Vijay.gif" alt="Vijay Misal" />
 </h1>
 
 <h1 align="left">Hey there! I am Vijay</h1>
