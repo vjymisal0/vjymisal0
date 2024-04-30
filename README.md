@@ -1,14 +1,17 @@
+<h1 align="center">
+  <img src="assets/Vijay.svg" alt="Vijay Misal" />
+</h1>
+
 <h1 align="left">Hey there! I am Vijay</h1>
 
 ###
-<div align="center">
 
+<div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=vjymisal0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true" height="154" alt="stats graph"  />
 
 <br>
 <br>
-
 
   <img src="https://streak-stats.demolab.com?user=vjymisal0&locale=en&mode=daily&theme=react&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" height="155" alt="streak graph"  />
 
@@ -40,7 +43,7 @@
 
 [![Vijay's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=73vijay)](https://auth.geeksforgeeks.org/user/73vijay)
 -->
-  
+
 </div>
 
 ###
@@ -69,9 +72,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
 
-
 </div>
-
 
 <div align="center">
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -101,15 +102,10 @@
 
 <br clear="both">
 
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vjymisal0&theme=flat&no-frame=true&margin-w=30&margin-h=10&column=7" alt="trophies" />
 </div>
 
-
 ###
 
-
-
- 
- ###
+###
