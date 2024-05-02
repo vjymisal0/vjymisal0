@@ -2,7 +2,11 @@
   <img src="assets/Vijay.gif" alt="Vijay Misal" width="340px" height="310px"/>
 </h1>
 
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/vjymisal0/vjymisal0/output/snake.svg" alt="Snake animation" />
+
+###
 
 <div align="center">
 
