@@ -2,6 +2,20 @@
   <img src="assets/Vijay.gif" alt="Vijay Misal" width="340px" height="310px"/>
 </h1>
 
+<div>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=vjymisal0.vjymisal0&left_color=antiquewhite&left_text=Profile%20Views"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/vjymisal0/vjymisal0/output/snake.svg" alt="Snake animation" />
+
+###
+</div>
+
+
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=vjymisal0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true" height="154" alt="stats graph"  />
