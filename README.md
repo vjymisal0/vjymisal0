@@ -2,8 +2,6 @@
   <img src="assets/Vijay.gif" alt="Vijay Misal" width="340px" height="310px"/>
 </h1>
 
-<div>
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=vjymisal0.vjymisal0&left_color=antiquewhite&left_text=Profile%20Views"  />
 </div>
@@ -13,7 +11,6 @@
 <img src="https://raw.githubusercontent.com/vjymisal0/vjymisal0/output/snake.svg" alt="Snake animation" />
 
 ###
-</div>
 
 
 <div align="center">
