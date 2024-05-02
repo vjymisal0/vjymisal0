@@ -2,7 +2,7 @@
   <img src="assets/Vijay.gif" alt="Vijay Misal" width="340px" height="310px"/>
 </h1>
 
-<h1 align="left">Hey there! I am Vijay</h1>
+<h1 align="center" style={color: "cyan";}>I am Vijay</h1>
 
 ###
 
