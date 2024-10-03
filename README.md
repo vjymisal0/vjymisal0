@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="assets/Vijay.gif" alt="Vijay Misal" width="340px" height="310px"/>
-</h1>
+
 
 <br clear="both">
 
