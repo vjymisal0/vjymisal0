@@ -1,10 +1,21 @@
-
+<h1 align="center">Hi 👋, I'm Vijay Misal</h1>
+<h3 align="center">A passionate developer & technology explorer!</h3>
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/vjymisal0/vjymisal0/output/snake.svg" alt="Snake animation, Under maintenance :(" />
 
 ###
+
+
+- 🔭 I’m currently working on **MERN Stack, Cloud Computing, Android Development and Next.js**
+
+- 🌱 I’m currently learning **Amazon Web Services**
+
+- 👨‍💻 Visit my portfolio [https://vijaymisal-portfolio.netlify.app](https://vijaymisal-portfolio.netlify.app)
+
+- 📫 How to Reach Me ➡️ You can reach me at: [vijay.22320079@viit.ac.in](mailto:vijay.22320079@viit.ac.in)
+
 
 <div align="center">
 
