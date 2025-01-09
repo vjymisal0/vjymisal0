@@ -30,23 +30,13 @@
 
 </div>
 <br>
-<div align="center">
-<!--
-![LeetCode Stats](https://leetcard.jacoblin.cool/vijaymisal?theme=dark&font=Open%20Sans&ext=activity)
--->
-[![Vijay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vjymisal0&theme=react)](https://github.com/vjymisal0/github-readme-activity-graph)
-</div>
+
+# Github Contribution Graph
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vjymisal0&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</br></br>
+  
 <br>
-<div align="center">
 
-<!--
-
-[![Vijay's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=73vijay)](https://auth.geeksforgeeks.org/user/73vijay)
--->
-
-</div>
-
-###
 
 <div>
   
