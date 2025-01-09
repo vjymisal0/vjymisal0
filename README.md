@@ -34,7 +34,7 @@
 <!--
 ![LeetCode Stats](https://leetcard.jacoblin.cool/vijaymisal?theme=dark&font=Open%20Sans&ext=activity)
 -->
-
+[![Vijay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vjymisal0&theme=react)](https://github.com/vjymisal0/github-readme-activity-graph)
 </div>
 <br>
 <div align="center">
