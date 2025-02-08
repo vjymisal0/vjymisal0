@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Amazon Web Services**
 
-- 👨‍💻 Visit my portfolio [https://vijaymisal-portfolio.netlify.app](https://vijaymisal-portfolio.netlify.app)
+- 👨‍💻 Visit my portfolio [https://vijaymisal.tech](https://vijaymisal.tech)
 
 - 📫 How to Reach Me ➡️ You can reach me at: [vijay.22320079@viit.ac.in](mailto:vijay.22320079@viit.ac.in)
 
