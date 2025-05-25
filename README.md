@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **MERN Stack, Cloud Computing, Android Development and Next.js**
 
-- 🌱 I’m currently learning **Amazon Web Services**
+- 🌱 I’m currently learning **Amazon Web Services & Angular JS**
 
 - 👨‍💻 Visit my portfolio [https://vijaymisal.tech](https://vijaymisal.tech)
 
