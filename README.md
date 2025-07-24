@@ -1,20 +1,10 @@
-<h1 align="center">Hi 👋, I'm Vijay Misal</h1>
-<h3 align="center">A passionate developer & technology explorer!</h3>
+<h1 align="center">Hi, I'm Vijay</h1>
+
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/vjymisal0/vjymisal0/output/snake.svg" alt="Snake animation, Under maintenance :(" />
 
-### 🚀 About Me
-
-
-- 🔭 I’m currently working on **MERN Stack, Cloud Computing, Android Development and Next.js**
-
-- 🌱 I’m currently learning **Amazon Web Services & Angular JS**
-
-- 👨‍💻 Visit my portfolio [https://vijaymisal.tech](https://vijaymisal.tech)
-
-- 📫 How to Reach Me ➡️ You can reach me at: [vijay.22320079@viit.ac.in](mailto:vijay.22320079@viit.ac.in)
 
 
 <div align="center">
@@ -42,8 +32,7 @@
 </div>
 <br>
 <div align="center">
-  
-# Github Contribution Graph
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vjymisal0&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </br></br>
 
@@ -52,7 +41,7 @@
   
 <br>
 
-
+<!-- 
 <div>
 
 # 💻 Tech Stack:
@@ -74,3 +63,5 @@
 ###
 
 ###
+
+-->
