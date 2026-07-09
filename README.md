@@ -1,5 +1,11 @@
 <h1 align="center">Hi, I'm Vijay</h1>
 
+<a href="https://github.com/vjymisal0/vjymisal0">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vjymisal0/vjymisal0/main/dark_mode.svg">
+    <img alt="vjymisal0's GitHub Profile README" src="https://raw.githubusercontent.com/vjymisal0/vjymisal0/main/light_mode.svg">
+  </picture>
+</a>
 
 <br clear="both">
 
