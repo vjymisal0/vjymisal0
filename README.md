@@ -9,6 +9,9 @@
 
 <br clear="both">
 
+<!-- Superseded by the terminal stats card above (today.py regenerates it daily).
+Uncomment any of these back in if you'd like them alongside the card.
+
 <img src="https://raw.githubusercontent.com/vjymisal0/vjymisal0/output/snake.svg" alt="Snake animation, Under maintenance :(" />
 
 
@@ -46,6 +49,7 @@
 </div>
   
 <br>
+-->
 
 <!-- 
 <div>
