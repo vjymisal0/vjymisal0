@@ -1,5 +1,9 @@
 <h1 align="center">Hi, I'm Vijay</h1>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vjymisal0/vjymisal0/main/assets/vijay.png" alt="Vijay Misal" width="200">
+</p>
+
 <a href="https://github.com/vjymisal0/vjymisal0">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vjymisal0/vjymisal0/main/dark_mode.svg">
