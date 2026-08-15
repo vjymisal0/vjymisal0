@@ -2,7 +2,7 @@
 
 <p align="center">
   I use AI to create things · <a href="https://vijaymisal.tech/">vijaymisal.tech</a><br>
-  Loopr Ai · India
+  SDE 1 @ Loopr Ai · India
 </p>
 
 <a href="https://github.com/vjymisal0/vjymisal0">
@@ -68,5 +68,5 @@ Beyond my own projects, I contribute fixes and features upstream to real-world o
 ## 📫 Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-vijaymisal.tech-000000?style=flat&logo=firefox&logoColor=white)](https://vijaymisal.tech/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijaymisal/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijaymisal)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:misalvijay153@gmail.com)
