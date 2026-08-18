@@ -42,21 +42,6 @@ Beyond my own projects, I contribute fixes and features upstream to real-world o
 
 <br>
 
-## 🚀 Things I've Built
-
-- **[portfolio-vijay](https://github.com/vjymisal0/portfolio-vijay)** — personal portfolio (Next.js, TypeScript, Tailwind, shadcn/ui, Framer Motion) → [vijaymisal.tech](https://vijaymisal.tech/)
-- **[tee-store](https://github.com/vjymisal0/tee-store)** — e-commerce storefront built on Next.js, Supabase and Stripe
-- **[pune-rain-map](https://github.com/vjymisal0/pune-rain-map)** — live rainfall map for Pune with animated clouds and radar (React, Vite, MapLibre)
-- **[placedrive](https://github.com/vjymisal0/placedrive)** — AI-native campus placement pipeline (Flutter + Supabase)
-- **[blur-score](https://github.com/vjymisal0/blur-score)** · **[exposure-score](https://github.com/vjymisal0/exposure-score)** · **[photo-hash](https://github.com/vjymisal0/photo-hash)** · **[strip-exif](https://github.com/vjymisal0/strip-exif)** — a small suite of published npm packages for image QC
-- **[gstin-validate](https://github.com/vjymisal0/gstin-validate)** · **[pan-validator](https://github.com/vjymisal0/pan-validator)** — published npm packages for validating Indian GSTIN/PAN numbers
-- **[stamped](https://github.com/vjymisal0/stamped)** — QC console tying the image-processing packages above together
-- **[chatgpt-usage-tracker](https://github.com/vjymisal0/chatgpt-usage-tracker)** — browser extension estimating ChatGPT usage per plan
-- **[quickdraw](https://github.com/vjymisal0/quickdraw)** — a 60-second Wild-West click-to-shoot browser game
-- **[GetNotes](https://github.com/vjymisal0/GetNotes)** — offline-first notes app using localStorage
-
-<br>
-
 ## 💻 Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
