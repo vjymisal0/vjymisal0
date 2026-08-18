@@ -14,41 +14,45 @@
 
 <br clear="both">
 
-## 🌱 Open Source Contributions
+## 🛠️ Open Source Contributions
 
 Beyond my own projects, I contribute fixes and features upstream to real-world open source projects:
 
-- **[vitejs/vite](https://github.com/vitejs/vite)** — kept newline-separated `srcset` candidates intact during asset rewriting *(in review)*
-- **[benoitc/gunicorn](https://github.com/benoitc/gunicorn)** — stopped a spurious "dropped body bytes" warning when `sendfile` has none *(in review)*
-- **[h3js/h3](https://github.com/h3js/h3)** — made `isMethod` compare HTTP methods case-insensitively *(in review)*
-- **[payloadcms/payload](https://github.com/payloadcms/payload)** — a run of UI/Local API fixes: `forceRender` forwarding into nested group fields, preserving nested arrays when cloning omitted JSON data, keeping `req.file` across nested Local API calls *(in review)*
-- **[medusajs/medusa](https://github.com/medusajs/medusa)** — docs-ui fixes: `MainNav` z-index overlap, a duplicate GA key, and a Windows path bug in the broken-link checker *(in review)*
-- **[chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)** — fixed the Alt+E resolve shortcut clashing with Chrome's built-in menu on Windows ✅ merged
-- **[commonmark/cmark](https://github.com/commonmark/cmark)** — fixed a reference link title being kept when followed by trailing garbage ✅ merged
-- **[console-rs/indicatif](https://github.com/console-rs/indicatif)** — stopped `HumanFloatCount` printing `-0` for values that round to zero *(in review)*
-- **[apache/superset](https://github.com/apache/superset)** — excluded a sort-only metric from stacked timeseries bar totals ✅ merged; zero-value stacked bar segment no longer overlaps its neighbour's label *(in review)*
-- **[collective/icalendar](https://github.com/collective/icalendar)** · **[mercadona/rele](https://github.com/mercadona/rele)** · **[reductstore/reductstore](https://github.com/reductstore/reductstore)** — dead-branch cleanup, a misreported `publish()` error, and unblocking system-event replication ✅ merged
-- **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** — synced `max_tokens` config docs across ja/ru/zh locales ✅ merged
-- **[sara-czasak/py-simple-wrap](https://github.com/sara-czasak/py-simple-wrap)** — added an `easy_images` module for simple image processing ✅ merged
-- **[LunarVagabond/Pipe-Deck](https://github.com/LunarVagabond/Pipe-Deck)** — added unit tests for `useMixerControls`, `filterGraph`, `recentStreams` ✅ merged
-- **[DefNotArham/Watchly](https://github.com/DefNotArham/Watchly)** — added smooth auto-scroll to the chat panel ✅ merged
-- **[royalpinto007/Tiny-Day](https://github.com/royalpinto007/Tiny-Day)** — fixed notification scheduling failures that were being silently swallowed ✅ merged
-- **[nivaas219/ossfind](https://github.com/nivaas219/ossfind)** — improved GitHub API error handling ✅ merged
-- **[Shashank-H/integrate-baumer-cam](https://github.com/Shashank-H/integrate-baumer-cam)** — camera configuration and RTSP connection-handling fixes ✅ merged (×2)
+- **[moov-io/metro2](https://github.com/moov-io/metro2)** — marshal zero-value date fields as empty JSON string
+- **[h3js/h3](https://github.com/h3js/h3)** — made `isMethod` compare HTTP methods case-insensitively
+- **[benoitc/gunicorn](https://github.com/benoitc/gunicorn)** — stopped a spurious "dropped body bytes" warning when `sendfile` has none
+- **[chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)** — fixed the Alt+E resolve shortcut clashing with Chrome's built-in menu on Windows
+- **[commonmark/cmark](https://github.com/commonmark/cmark)** — fixed a reference link title being kept when followed by trailing garbage
+- **[tj/git-extras](https://github.com/tj/git-extras)** — recognize bare repositories in `is-git-repo`
+- **[blnkfinance/blnk](https://github.com/blnkfinance/blnk)** — include `meta_data` in `GetBalanceByIDLite` database query
+- **[kubestellar/console](https://github.com/kubestellar/console)** — fail coverage merge job on incomplete shard artifact set
+- **[anivar/decern](https://github.com/anivar/decern)** — cap error-body read at 64 KiB in SDKs
+- **[tenstorrent/tt-umd](https://github.com/tenstorrent/tt-umd)** — deleted Grayskull board types
+- **[dfa1/rocksdbffm](https://github.com/dfa1/rocksdbffm)** — use `rocksdb_transaction_get` instead of PinnableSlice in `Transaction#get`
+- **[apache/superset](https://github.com/apache/superset)** — excluded a sort-only metric from stacked timeseries bar totals
+- **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** — synced `max_tokens` config docs across locales
+- **[collective/icalendar](https://github.com/collective/icalendar)** — removed unreachable branches from vOrg
+- **[mercadona/rele](https://github.com/mercadona/rele)** — fixed `publish()` reporting the wrong error when settings has no RELE dict
+- **[reductstore/reductstore](https://github.com/reductstore/reductstore)** — avoided blocking system-event replication on replication updates
+- **[LunarVagabond/Pipe-Deck](https://github.com/LunarVagabond/Pipe-Deck)** — added unit tests for `useMixerControls`, `filterGraph`, `recentStreams`
+- **[sara-czasak/py-simple-wrap](https://github.com/sara-czasak/py-simple-wrap)** — added an `easy_images` module for simple image processing
+- **[DefNotArham/Watchly](https://github.com/DefNotArham/Watchly)** — added smooth auto-scroll to the chat panel
+- **[royalpinto007/Tiny-Day](https://github.com/royalpinto007/Tiny-Day)** — fixed notification scheduling failures that were being silently swallowed
+- **[nivaas219/ossfind](https://github.com/nivaas219/ossfind)** — improved GitHub API error handling
 
 <br>
 
-## 🛠 Things I've Built
+## 🚀 Things I've Built
 
 - **[portfolio-vijay](https://github.com/vjymisal0/portfolio-vijay)** — personal portfolio (Next.js, TypeScript, Tailwind, shadcn/ui, Framer Motion) → [vijaymisal.tech](https://vijaymisal.tech/)
 - **[tee-store](https://github.com/vjymisal0/tee-store)** — e-commerce storefront built on Next.js, Supabase and Stripe
 - **[pune-rain-map](https://github.com/vjymisal0/pune-rain-map)** — live rainfall map for Pune with animated clouds and radar (React, Vite, MapLibre)
 - **[placedrive](https://github.com/vjymisal0/placedrive)** — AI-native campus placement pipeline (Flutter + Supabase)
-- **[blur-score](https://github.com/vjymisal0/blur-score)** · **[exposure-score](https://github.com/vjymisal0/exposure-score)** · **[photo-hash](https://github.com/vjymisal0/photo-hash)** · **[strip-exif](https://github.com/vjymisal0/strip-exif)** — a small suite of published npm packages for image QC (sharpness, exposure, duplicate detection, EXIF stripping)
+- **[blur-score](https://github.com/vjymisal0/blur-score)** · **[exposure-score](https://github.com/vjymisal0/exposure-score)** · **[photo-hash](https://github.com/vjymisal0/photo-hash)** · **[strip-exif](https://github.com/vjymisal0/strip-exif)** — a small suite of published npm packages for image QC
 - **[gstin-validate](https://github.com/vjymisal0/gstin-validate)** · **[pan-validator](https://github.com/vjymisal0/pan-validator)** — published npm packages for validating Indian GSTIN/PAN numbers
 - **[stamped](https://github.com/vjymisal0/stamped)** — QC console tying the image-processing packages above together
-- **[chatgpt-usage-tracker](https://github.com/vjymisal0/chatgpt-usage-tracker)** — browser extension estimating ChatGPT usage per plan, tracked entirely locally
-- **[quickdraw](https://github.com/vjymisal0/quickdraw)** — a 60-second Wild-West click-to-shoot browser game (HTML5 Canvas + Web Audio, no dependencies)
+- **[chatgpt-usage-tracker](https://github.com/vjymisal0/chatgpt-usage-tracker)** — browser extension estimating ChatGPT usage per plan
+- **[quickdraw](https://github.com/vjymisal0/quickdraw)** — a 60-second Wild-West click-to-shoot browser game
 - **[GetNotes](https://github.com/vjymisal0/GetNotes)** — offline-first notes app using localStorage
 
 <br>
