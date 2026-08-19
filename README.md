@@ -18,27 +18,28 @@
 
 Beyond my own projects, I contribute fixes and features upstream to real-world open source projects:
 
-- **[moov-io/metro2](https://github.com/moov-io/metro2)** — marshal zero-value date fields as empty JSON string
-- **[h3js/h3](https://github.com/h3js/h3)** — made `isMethod` compare HTTP methods case-insensitively
-- **[benoitc/gunicorn](https://github.com/benoitc/gunicorn)** — stopped a spurious "dropped body bytes" warning when `sendfile` has none
-- **[chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)** — fixed the Alt+E resolve shortcut clashing with Chrome's built-in menu on Windows
-- **[commonmark/cmark](https://github.com/commonmark/cmark)** — fixed a reference link title being kept when followed by trailing garbage
-- **[tj/git-extras](https://github.com/tj/git-extras)** — recognize bare repositories in `is-git-repo`
-- **[blnkfinance/blnk](https://github.com/blnkfinance/blnk)** — include `meta_data` in `GetBalanceByIDLite` database query
-- **[kubestellar/console](https://github.com/kubestellar/console)** — fail coverage merge job on incomplete shard artifact set
-- **[anivar/decern](https://github.com/anivar/decern)** — cap error-body read at 64 KiB in SDKs
-- **[tenstorrent/tt-umd](https://github.com/tenstorrent/tt-umd)** — deleted Grayskull board types
-- **[dfa1/rocksdbffm](https://github.com/dfa1/rocksdbffm)** — use `rocksdb_transaction_get` instead of PinnableSlice in `Transaction#get`
 - **[apache/superset](https://github.com/apache/superset)** — excluded a sort-only metric from stacked timeseries bar totals
+- **[chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)** — fixed the Alt+E resolve shortcut clashing with Chrome's built-in menu on Windows
 - **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** — synced `max_tokens` config docs across locales
+- **[tj/git-extras](https://github.com/tj/git-extras)** — recognize bare repositories in `is-git-repo`
+- **[benoitc/gunicorn](https://github.com/benoitc/gunicorn)** — stopped a spurious "dropped body bytes" warning when `sendfile` has none
+- **[expressjs/morgan](https://github.com/expressjs/morgan)** - respect NO_COLOR env var in dev format
+- **[h3js/h3](https://github.com/h3js/h3)** — made `isMethod` compare HTTP methods case-insensitively
+- **[commonmark/cmark](https://github.com/commonmark/cmark)** — fixed a reference link title being kept when followed by trailing garbage
 - **[collective/icalendar](https://github.com/collective/icalendar)** — removed unreachable branches from vOrg
-- **[mercadona/rele](https://github.com/mercadona/rele)** — fixed `publish()` reporting the wrong error when settings has no RELE dict
+- **[blnkfinance/blnk](https://github.com/blnkfinance/blnk)** — include `meta_data` in `GetBalanceByIDLite` database query
 - **[reductstore/reductstore](https://github.com/reductstore/reductstore)** — avoided blocking system-event replication on replication updates
-- **[LunarVagabond/Pipe-Deck](https://github.com/LunarVagabond/Pipe-Deck)** — added unit tests for `useMixerControls`, `filterGraph`, `recentStreams`
+- **[mercadona/rele](https://github.com/mercadona/rele)** — fixed `publish()` reporting the wrong error when settings has no RELE dict
+- **[moov-io/metro2](https://github.com/moov-io/metro2)** — marshal zero-value date fields as empty JSON string
+- **[kubestellar/console](https://github.com/kubestellar/console)** — fail coverage merge job on incomplete shard artifact set
+- **[tenstorrent/tt-umd](https://github.com/tenstorrent/tt-umd)** — deleted Grayskull board types
 - **[sara-czasak/py-simple-wrap](https://github.com/sara-czasak/py-simple-wrap)** — added an `easy_images` module for simple image processing
+- **[anivar/decern](https://github.com/anivar/decern)** — cap error-body read at 64 KiB in SDKs
+- **[dfa1/rocksdbffm](https://github.com/dfa1/rocksdbffm)** — use `rocksdb_transaction_get` instead of PinnableSlice in `Transaction#get`
+- **[nivaas219/ossfind](https://github.com/nivaas219/ossfind)** — improved GitHub API error handling
+- **[LunarVagabond/Pipe-Deck](https://github.com/LunarVagabond/Pipe-Deck)** — added unit tests for `useMixerControls`, `filterGraph`, `recentStreams`
 - **[DefNotArham/Watchly](https://github.com/DefNotArham/Watchly)** — added smooth auto-scroll to the chat panel
 - **[royalpinto007/Tiny-Day](https://github.com/royalpinto007/Tiny-Day)** — fixed notification scheduling failures that were being silently swallowed
-- **[nivaas219/ossfind](https://github.com/nivaas219/ossfind)** — improved GitHub API error handling
 
 <br>
 
