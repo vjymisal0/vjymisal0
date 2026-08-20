@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Vijay ??</h1>
+<h1 align="center">Hi, I'm Vijay 👋</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Software+Engineer;Open+Source+Contributor;AI+Enthusiast" alt="Typing SVG" /></a>
@@ -20,15 +20,15 @@
 
 <br clear="both">
 
-### ?? What I'm up to
-- ?? Software Engineer at **Loopr AI**
-- ?? Actively contributing to high-impact **Open Source** projects
-- ?? Deep diving into **AI, TypeScript, and Python**
+###  🌱 What I'm up to
+-  💻 Software Engineer at **Loopr AI**
+-  🚀 Actively contributing to high-impact **Open Source** projects
+-  🧠 Deep diving into **AI, TypeScript, and Python**
 
 
 
 
-## ?? Featured Projects
+##  🚀 Featured Projects
 
 <p align="center">
   <a href="https://github.com/vjymisal0/portfolio-vijay">
@@ -49,7 +49,7 @@
 </p>
 
 <br>
-## 🛠️ Open Source Contributions
+## 🔭 Open Source Contributions
 
 Beyond my own projects, I contribute fixes and features upstream to real-world open source projects:
 
@@ -79,7 +79,7 @@ Beyond my own projects, I contribute fixes and features upstream to real-world o
 <br>
 
 
-## ?? Weekly Coding Stats
+##  📊 Weekly Coding Stats
 
 <!--START_SECTION:waka-->
 
@@ -109,7 +109,7 @@ No activity tracked
 
 <br>
 
-## 📫 Connect
+## 🤝 Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-vijaymisal.tech-000000?style=flat&logo=firefox&logoColor=white)](https://vijaymisal.tech/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijaymisal)
