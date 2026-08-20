@@ -4,7 +4,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Software+Engineer;Open+Source+Contributor;AI+Enthusiast" alt="Typing SVG" /></a>
 </p>
 
-
 <p align="center">
   I use AI to create things · <a href="https://vijaymisal.tech/">vijaymisal.tech</a><br>
   SDE 1 @ Loopr Ai · India
@@ -17,16 +16,7 @@
   </picture>
 </a>
 
-
 <br clear="both">
-
-###  🌱 What I'm up to
--  💻 Software Engineer at **Loopr AI**
--  🚀 Actively contributing to high-impact **Open Source** projects
--  🧠 Deep diving into **AI, TypeScript, and Python**
-
-
-
 
 ##  🚀 Featured Projects
 
@@ -77,7 +67,6 @@ Beyond my own projects, I contribute fixes and features upstream to real-world o
 - **[royalpinto007/Tiny-Day](https://github.com/royalpinto007/Tiny-Day)** — fixed notification scheduling failures that were being silently swallowed
 
 <br>
-
 
 ## 💻 Tech Stack
 
