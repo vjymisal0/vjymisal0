@@ -49,6 +49,15 @@ Beyond my own projects, I contribute fixes and features upstream to real-world o
 
 <br>
 
+
+## ?? Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+*Waiting for WakaTime stats to generate...*
+<!--END_SECTION:waka-->
+
+<br>
+
 ## 💻 Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
