@@ -31,10 +31,10 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> .... </tspan><tspan class="value" id="age_data">22 years, 6 months, 2 days</tspan>
 <tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">Loopr AI</tspan>
 <tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Software Engineer</tspan>
-<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">VS Code, Cursor</tspan>
+<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Antigravity</tspan>
 <tspan x="390" y="150" class="cc">. </tspan>
-<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Python, TypeScript, Dart, JS</tspan>
-<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Frameworks</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">React, Next.js, Flutter</tspan>
+<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Python, TypeScript, JS</tspan>
+<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Frameworks</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">React, Next.js</tspan>
 <tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Spoken</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">English, Hindi</tspan>
 <tspan x="390" y="250">- GitHub Stats</tspan> -—————————————————————————————————————————-—-
 <tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> ... </tspan><tspan class="value" id="repo_data">158</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">190</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ............ </tspan><tspan class="value" id="star_data">30</tspan>

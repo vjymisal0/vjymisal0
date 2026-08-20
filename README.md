@@ -20,20 +20,6 @@
 <br clear="both">
 
 
-## ?? GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vjymisal0&show_icons=true&theme=radical" alt="vjymisal0's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vjymisal0&theme=radical" alt="vjymisal0's Streak" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vjymisal0&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<br>
-
-
-
 ## 🛠️ Open Source Contributions
 
 Beyond my own projects, I contribute fixes and features upstream to real-world open source projects:
