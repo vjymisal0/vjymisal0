@@ -1,4 +1,9 @@
-<h1 align="center">Hi, I'm Vijay</h1>
+<h1 align="center">Hi, I'm Vijay ??</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Software+Engineer;Open+Source+Contributor;AI+Enthusiast" alt="Typing SVG" /></a>
+</p>
+
 
 <p align="center">
   I use AI to create things · <a href="https://vijaymisal.tech/">vijaymisal.tech</a><br>
@@ -13,6 +18,21 @@
 </a>
 
 <br clear="both">
+
+
+## ?? GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vjymisal0&show_icons=true&theme=radical" alt="vjymisal0's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vjymisal0&theme=radical" alt="vjymisal0's Streak" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vjymisal0&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<br>
+
+
 
 ## 🛠️ Open Source Contributions
 
