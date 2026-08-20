@@ -18,27 +18,6 @@
 
 <br clear="both">
 
-##  🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/vjymisal0/portfolio-vijay">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vjymisal0&repo=portfolio-vijay&theme=radical" width="48%" />
-  </a>
-  <a href="https://github.com/vjymisal0/pan-validator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vjymisal0&repo=pan-validator&theme=radical" width="48%" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/vjymisal0/strip-exif">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vjymisal0&repo=strip-exif&theme=radical" width="48%" />
-  </a>
-  <a href="https://github.com/vjymisal0/photo-hash">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vjymisal0&repo=photo-hash&theme=radical" width="48%" />
-  </a>
-</p>
-
-<br>
 ## 🔭 Open Source Contributions
 
 Beyond my own projects, I contribute fixes and features upstream to real-world open source projects:
