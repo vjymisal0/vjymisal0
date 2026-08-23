@@ -22,6 +22,10 @@
 
 Beyond my own projects, I contribute fixes and features upstream to real-world open source projects:
 
+- **[vitejs/vite](https://github.com/vitejs/vite)** — preserved newline-separated `srcset` candidates in CSS asset processing
+- **[carlos-emr/carlos](https://github.com/carlos-emr/carlos)** — aligned lab results empty-state table colspan with rendered columns count
+- **[mautic/user-documentation](https://github.com/mautic/user-documentation)** — updated points scoring and trigger docs for 7.0
+- **[reticlehq/reticle](https://github.com/reticlehq/reticle)** — documented all packages and applications in the architecture docs
 - **[apache/superset](https://github.com/apache/superset)** — excluded a sort-only metric from stacked timeseries bar totals
 - **[chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)** — fixed the Alt+E resolve shortcut clashing with Chrome's built-in menu on Windows
 - **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** — synced `max_tokens` config docs across locales
