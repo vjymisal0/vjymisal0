@@ -22,6 +22,8 @@
 
 Beyond my own projects, I contribute fixes and features upstream to real-world open source projects:
 
+- **[Automattic/mongoose](https://github.com/Automattic/mongoose)** — clarified duplicate index warning when index is not created
+- **[PostHog/posthog-rs](https://github.com/PostHog/posthog-rs)** — added `group_identify` helper for creating and updating group properties
 - **[vitejs/vite](https://github.com/vitejs/vite)** — preserved newline-separated `srcset` candidates in CSS asset processing
 - **[carlos-emr/carlos](https://github.com/carlos-emr/carlos)** — aligned lab results empty-state table colspan with rendered columns count
 - **[mautic/user-documentation](https://github.com/mautic/user-documentation)** — updated points scoring and trigger docs for 7.0
