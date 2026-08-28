@@ -22,6 +22,7 @@
 
 Beyond my own projects, I contribute fixes and features upstream to real-world open source projects:
 
+- **[rclone/rclone](https://github.com/rclone/rclone)** — fixed log message growing without bound on repeated write errors
 - **[Automattic/mongoose](https://github.com/Automattic/mongoose)** — clarified duplicate index warning when index is not created
 - **[PostHog/posthog-rs](https://github.com/PostHog/posthog-rs)** — added `group_identify` helper for creating and updating group properties
 - **[vitejs/vite](https://github.com/vitejs/vite)** — preserved newline-separated `srcset` candidates in CSS asset processing
