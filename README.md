@@ -22,6 +22,16 @@
 
 Beyond my own projects, I contribute fixes and features upstream to real-world open source projects:
 
+- **[ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)** — added Firecrawl web scraping & crawler datasource marketplace plugin
+- **[PostHog/posthog](https://github.com/PostHog/posthog)** — support fetching and filtering prompt versions by label in single request
+- **[appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)** — ensured transactional application deletion integrity and child action error propagation
+- **[medusajs/medusa](https://github.com/medusajs/medusa)** — support top-level redis options in workflow engine and order address country code validation
+- **[langfuse/langfuse](https://github.com/langfuse/langfuse)** — added `?fromTimestamp` & `?toTimestamp` ISO 8601 filtering to public score configs and annotation queue APIs
+- **[devtron-labs/devtron](https://github.com/devtron-labs/devtron)** — normalized user filters and prevented unbounded filter-based bulk user deletion
+- **[chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)** — support multi-delimiter email lists and prepended UTF-8 BOM to CSV downloads
+- **[keploy/keploy](https://github.com/keploy/keploy)** — propagated non-zero exit codes from CLI utility commands on failure
+- **[langgenius/dify](https://github.com/langgenius/dify)** — handle unknown tool provider lookups and normalize message list fields
+- **[onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)** — sanitize allowlist member filters and allow anonymous agent avatar access
 - **[rclone/rclone](https://github.com/rclone/rclone)** — fixed log message growing without bound on repeated write errors
 - **[Automattic/mongoose](https://github.com/Automattic/mongoose)** — clarified duplicate index warning when index is not created
 - **[PostHog/posthog-rs](https://github.com/PostHog/posthog-rs)** — added `group_identify` helper for creating and updating group properties
