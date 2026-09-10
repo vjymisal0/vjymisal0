@@ -4,10 +4,6 @@
   SDE 1 @ <strong>Loopr AI</strong> · India
 </p>
 
-## 🧩 What I Build
-
-📱 Android apps · 🌐 Web apps · 🖥️ Desktop apps · ⚛️ React · 🟢 Node.js · 🐍 Python · 🤖 AI/ML
-
 <a href="https://github.com/vjymisal0/vjymisal0">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vjymisal0/vjymisal0/main/dark_mode.svg">
