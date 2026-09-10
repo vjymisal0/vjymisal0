@@ -22,6 +22,11 @@
 
 Beyond my own projects, I contribute fixes and features upstream to real-world open source projects:
 
+- **[qdrant/qdrant](https://github.com/qdrant/qdrant)** — enforced `max_query_limit` on scroll requests in strict mode when limit is omitted
+- **[PostHog/posthog.com](https://github.com/PostHog/posthog.com)** — added RFC 9116 `Expires` field to security.txt
+- **[kubestellar/console](https://github.com/kubestellar/console)** — added keyboard navigation (arrows/escape) and tooltip dismiss to onboarding tour
+- **[r-lib/actions](https://github.com/r-lib/actions)** — exported correct RTOOLS HOME env vars on Windows ARM64 and x64
+- **[backstage/community-plugins](https://github.com/backstage/community-plugins)** — enhanced kafka workspace architecture documentation
 - **[ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)** — added Firecrawl web scraping & crawler datasource marketplace plugin
 - **[PostHog/posthog](https://github.com/PostHog/posthog)** — support fetching and filtering prompt versions by label in single request
 - **[appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)** — ensured transactional application deletion integrity and child action error propagation
