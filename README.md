@@ -1,20 +1,7 @@
 <h1 align="center">Hi, I'm Vijay 👋</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Software+Engineer;Open+Source+Contributor;AI+Builder" alt="Software Engineer; Open Source Contributor; AI Builder" />
-  </a>
-</p>
-
-<p align="center">
-  Building AI products and developer tools at <strong>Loopr AI</strong> · India<br>
-  <a href="https://vijaymisal.tech/">vijaymisal.tech</a>
-</p>
-
-<p align="center">
-  <a href="https://vijaymisal.tech/"><img src="https://img.shields.io/badge/Portfolio-vijaymisal.tech-111827?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/vijaymisal"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:misalvijay153@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  SDE 1 @ <strong>Loopr AI</strong> · India
 </p>
 
 <a href="https://github.com/vjymisal0/vjymisal0">
