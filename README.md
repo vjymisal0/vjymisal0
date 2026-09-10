@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Vijay 👋</h1>
+<h1 align="center">Hi, I'm Vijay</h1>
 
 <p align="center">
   SDE 1 @ <strong>Loopr AI</strong> · India
@@ -11,7 +11,7 @@
   </picture>
 </a>
 
-## 🔭 Selected Open Source Contributions
+## Selected Open Source Contributions
 
 A selection of fixes, features, tests, and documentation improvements contributed upstream:
 
