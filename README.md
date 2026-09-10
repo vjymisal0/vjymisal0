@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  I use AI to create things · <a href="https://vijaymisal.tech/">vijaymisal.tech</a><br>
-  SDE 1 @ Loopr Ai · India
+  Software Engineer building AI products and developer tools · <a href="https://vijaymisal.tech/">vijaymisal.tech</a><br>
+  SDE 1 @ Loopr AI · India
 </p>
 
 <a href="https://github.com/vjymisal0/vjymisal0">
@@ -18,9 +18,13 @@
 
 <br clear="both">
 
+## 🛠️ Technologies
+
+TypeScript · JavaScript · Python · React · Next.js · Node.js · Flutter · AI/LLM · APIs · Open Source
+
 ## 🔭 Open Source Contributions
 
-Beyond my own projects, I contribute fixes and features upstream to real-world open source projects:
+I contribute fixes, features, tests, and documentation upstream to real-world open-source projects across AI, developer tools, APIs, and web applications:
 
 - **[qdrant/qdrant](https://github.com/qdrant/qdrant)** — enforced `max_query_limit` on scroll requests in strict mode when limit is omitted
 - **[PostHog/posthog.com](https://github.com/PostHog/posthog.com)** — added RFC 9116 `Expires` field to security.txt
