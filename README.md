@@ -11,6 +11,27 @@
   </picture>
 </a>
 
+## 📦 Open Source Libraries & Packages
+
+Production-ready TypeScript / JavaScript developer tools and compliance utilities published to npm:
+
+### 🇮🇳 Indian FinTech & Compliance Utilities
+- **[`upi-validator`](https://github.com/vjymisal0/upi-validator)** — [![npm](https://img.shields.io/npm/v/upi-validator?color=blue)](https://www.npmjs.com/package/upi-validator) Zero-dependency Indian UPI ID (VPA) validator, parser, bank-handle verifier, and QR URI generator.
+- **[`@vjymisal0/aadhaar-mask`](https://github.com/vjymisal0/aadhaar-mask)** — [![npm](https://img.shields.io/npm/v/@vjymisal0/aadhaar-mask?color=blue)](https://www.npmjs.com/package/@vjymisal0/aadhaar-mask) Zero-dependency Indian Aadhaar validator, Verhoeff checksum verifier, and 8-digit secure masker for UIDAI & RBI compliance.
+- **[`rupee-words`](https://github.com/vjymisal0/rupee-words)** — [![npm](https://img.shields.io/npm/v/rupee-words?color=blue)](https://www.npmjs.com/package/rupee-words) Convert numbers and Rupee amounts to English words using Indian numbering scales (Lakhs/Crores), Paise handling, and GST invoicing formats.
+- **[`pan-validator`](https://github.com/vjymisal0/pan-validator)** — [![npm](https://img.shields.io/npm/v/pan-validator?color=blue)](https://www.npmjs.com/package/pan-validator) Validate and parse Indian PAN (Permanent Account Number) card numbers for KYC workflows.
+- **[`gstin-validate`](https://github.com/vjymisal0/gstin-validate)** — [![npm](https://img.shields.io/npm/v/gstin-validate?color=blue)](https://www.npmjs.com/package/gstin-validate) Validate and parse Indian GSTIN numbers with state codes and checksum verification.
+
+### 🖼️ Image Processing & Document Quality Analysis
+- **[`contrast-score`](https://github.com/vjymisal0/contrast-score)** — [![npm](https://img.shields.io/npm/v/contrast-score?color=blue)](https://www.npmjs.com/package/contrast-score) Analyze image contrast using WCAG 2.1 relative luminance, Michelson contrast, and RMS contrast algorithms.
+- **[`shadow-score`](https://github.com/vjymisal0/shadow-score)** — [![npm](https://img.shields.io/npm/v/shadow-score?color=blue)](https://www.npmjs.com/package/shadow-score) Detect harsh shadows and calculate shadow coverage percentage in document and face verification photos.
+- **[`glare-score`](https://github.com/vjymisal0/glare-score)** — [![npm](https://img.shields.io/npm/v/glare-score?color=blue)](https://www.npmjs.com/package/glare-score) Detect specularity, over-saturated hotspots, and glare reflections in document photos for KYC and camera QA.
+- **[`blur-score`](https://github.com/vjymisal0/blur-score)** — [![npm](https://img.shields.io/npm/v/blur-score?color=blue)](https://www.npmjs.com/package/blur-score) Detect image blurriness (0-1 sharpness score) using Laplacian variance.
+- **[`photo-hash`](https://github.com/vjymisal0/photo-hash)** — [![npm](https://img.shields.io/npm/v/photo-hash?color=blue)](https://www.npmjs.com/package/photo-hash) Detect near-duplicate photos using perceptual difference hash (dHash).
+- **[`strip-exif`](https://github.com/vjymisal0/strip-exif)** — [![npm](https://img.shields.io/npm/v/strip-exif?color=blue)](https://www.npmjs.com/package/strip-exif) Strip EXIF/GPS/IPTC metadata from images before upload or storage for privacy preservation.
+
+---
+
 ## Selected Open Source Contributions
 
 A selection of fixes, features, tests, and documentation improvements contributed upstream:
