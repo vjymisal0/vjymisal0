@@ -13,23 +13,23 @@
 
 ## Selected Open Source Contributions
 
-A selection of fixes, features, tests, and documentation improvements contributed upstream:
+A selection of merged fixes, features, and tests contributed upstream:
 
-- **[Qdrant](https://github.com/qdrant/qdrant)** — enforced `max_query_limit` for strict-mode scroll requests
-- **[PostHog](https://github.com/PostHog/posthog)** — added prompt-version filtering by label in a single request
-- **[ToolJet](https://github.com/ToolJet/ToolJet)** — added a Firecrawl web-scraping and crawler datasource plugin
-- **[Appsmith](https://github.com/appsmithorg/appsmith)** — improved transactional application deletion integrity and child-action error propagation
-- **[Medusa](https://github.com/medusajs/medusa)** — added top-level Redis workflow options and order address validation
-- **[Langfuse](https://github.com/langfuse/langfuse)** — added ISO 8601 time-range filtering to public score and annotation APIs
-- **[Dify](https://github.com/langgenius/dify)** — improved unknown tool-provider handling and message-list normalization
-- **[Chatwoot](https://github.com/chatwoot/chatwoot)** — improved multi-delimiter email lists and CSV downloads
-- **[Devtron](https://github.com/devtron-labs/devtron)** — hardened user filters and prevented unbounded bulk deletion
-- **[Onyx](https://github.com/onyx-dot-app/onyx)** — sanitized allowlist member filters and anonymous agent avatar access
-- **[Keploy](https://github.com/keploy/keploy)** — propagated non-zero exit codes from failed CLI utility commands
-- **[rclone](https://github.com/rclone/rclone)** — fixed unbounded log growth on repeated write errors
-- **[Vite](https://github.com/vitejs/vite)** — preserved newline-separated `srcset` candidates in CSS asset processing
-- **[Gunicorn](https://github.com/benoitc/gunicorn)** — fixed a spurious dropped-body-bytes warning
-- **[Apache Superset](https://github.com/apache/superset)** — corrected stacked-timeseries bar totals for sort-only metrics
+- **[Qdrant](https://github.com/qdrant/qdrant/pull/10382)** — enforced `max_query_limit` for strict-mode scroll requests when limit is omitted
+- **[Vite](https://github.com/vitejs/vite/pull/23265)** — preserved newline-separated `srcset` candidates in CSS; handled `server.ws: false` in `mergeConfig`
+- **[Apache Superset](https://github.com/apache/superset/pull/42881)** — corrected stacked-timeseries bar totals for sort-only metrics
+- **[Gunicorn](https://github.com/benoitc/gunicorn/pull/3684)** — fixed a spurious dropped-body-bytes warning with sendfile
+- **[Model Context Protocol TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk/pull/2778)** — restored `onclose` after modern exchanges
+- **[axios](https://github.com/axios/axios/pull/11179)** — preserved response size errors across fetch runtime wrappers
+- **[rclone](https://github.com/rclone/rclone/pull/9776)** — fixed unbounded log growth on repeated VFS cache write errors
+- **[Mongoose](https://github.com/Automattic/mongoose/pull/16478)** — clarified duplicate index warning in schema docs
+- **[Harper](https://github.com/Automattic/harper/pull/4212)** — fixed word-splitting anchors and a `missing_to` false positive
+- **[git-extras](https://github.com/tj/git-extras/pull/1275)** — four merged PRs: changelog pathspec excludes, Forgejo/Codeberg URLs in `git mr`, bare-repo detection, gitignore templates
+- **[Chatwoot](https://github.com/chatwoot/chatwoot/pull/15418)** — fixed Alt+E resolve shortcut opening Chrome's menu on Windows
+- **[Medusa](https://github.com/medusajs/medusa/pull/16362)** — fixed docs nav z-index overlap, duplicate GA key, and Windows link-checker paths
+- **[PostHog](https://github.com/PostHog/posthog-rs/pull/232)** — added a `group_identify` helper to the Rust SDK
+- **[CommonMark cmark](https://github.com/commonmark/cmark/pull/627)** — fixed reference link titles kept despite trailing garbage
+- **[SQLite.swift](https://github.com/stephencelis/SQLite.swift/pull/1373)** — fixed a recurring crash on `Connection` deinit and invalid CHECK constraint SQL
 
 > More contributions are available in my [GitHub activity](https://github.com/vjymisal0?tab=activity).
 
